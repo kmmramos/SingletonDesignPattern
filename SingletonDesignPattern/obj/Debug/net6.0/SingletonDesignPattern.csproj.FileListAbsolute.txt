@@ -1,0 +1,15 @@
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.exe
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.dll
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.pdb
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.dll
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\refint\SingletonDesignPattern.dll
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.pdb
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net6.0\ref\SingletonDesignPattern.dll
